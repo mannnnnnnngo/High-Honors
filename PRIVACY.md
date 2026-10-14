@@ -1,6 +1,6 @@
 # High Honors - Privacy Policy
 
-*Last updated October 12, 2026. The live copy is at https://highhonors.pages.dev/privacy.*
+*Last updated October 14, 2026. The live copy is at https://highhonors.pages.dev/privacy.*
 
 High Honors is a personal school dashboard. It shows your Gmail, Google Chat, Google Classroom and Google Calendar in one place. This page explains what it does with your information, in plain words.
 
@@ -22,7 +22,9 @@ It only does things you press a button for. It never sends mail, messages or inv
 - Email addresses and names you've written to or chatted with, only to suggest them when you type.
 - How long you use High Honors: once a minute while it's on screen, which tab is open. Kept for 90 days.
 
-Your mail, messages, classwork and events are **not** copied or kept. They're read from Google when you open a page. So pages open fast, your own browser keeps the last copy of each page you opened, on your device only, and the server remembers it in memory for a few minutes. Logging out wipes the browser copy.
+Your mail, messages, classwork and events are **not** copied or kept (except the encrypted 7-day Mangoclass copy explained below). They're read from Google when you open a page. So pages open fast, your own browser keeps the last copy of each page you opened, on your device only, and the server remembers it in memory for a few minutes. Logging out wipes the browser copy.
+
+**Google through Mangoclass (no Google API):** if you press **Connect to Google** in the Mangoclass app, you sign in on Google's own page inside the app, on your Mac. Mangoclass then reads the Google pages you could open yourself (for now Classroom: your classes and to-do list) about every half hour while it's running, and sends what it read to High Honors. High Honors gets no Google password, no Google key and uses no Google API for this. So your phone can see it while your Mac is off, High Honors **keeps the last copy, encrypted, and deletes it after 7 days without a new one**. Disconnect Google in Mangoclass to delete it right away.
 
 **Mangoclass:** if you connect the Mangoclass app on your Mac, High Honors sends that Mac the next two weeks of your Google Calendar events (title, time, place, which calendar) so its menu bar panel can show today's. They go only to Macs you connected, and the Mac keeps the last copy. Disconnect the Mac to stop it.
 
@@ -70,7 +72,9 @@ High Honors는 개인 학교 대시보드예요. Gmail, Google 채팅, Google �
 - 내가 메일을 보내거나 채팅한 사람의 이메일 주소와 이름. 입력할 때 추천해 주는 데만 써요.
 - High Honors를 얼마나 쓰는지: 화면에 켜져 있는 동안 1분마다 어떤 탭이 열려 있는지. 90일 동안 보관해요.
 
-메일, 메시지, 과제, 일정 내용은 복사하거나 보관하지 **않아요**. 페이지를 열 때 Google에서 바로 읽어 와요. 페이지가 빨리 열리도록 내 브라우저가 마지막으로 연 페이지의 사본을 내 기기에만 두고, 서버도 몇 분 동안 메모리에 기억해요. 로그아웃하면 브라우저 사본은 지워져요.
+메일, 메시지, 과제, 일정 내용은 복사하거나 보관하지 **않아요** (아래에 설명한, 7일 동안 암호화해 두는 Mangoclass 사본은 빼고요). 페이지를 열 때 Google에서 바로 읽어 와요. 페이지가 빨리 열리도록 내 브라우저가 마지막으로 연 페이지의 사본을 내 기기에만 두고, 서버도 몇 분 동안 메모리에 기억해요. 로그아웃하면 브라우저 사본은 지워져요.
+
+**Mangoclass를 통한 Google (Google API 없음):** Mangoclass 앱에서 **Google 연결**을 누르면, Mac의 앱 안에서 Google 페이지에 직접 로그인해요. 그러면 Mangoclass가 내가 직접 열 수 있는 Google 페이지(지금은 클래스룸: 수업과 할 일 목록)를 앱이 켜져 있는 동안 30분쯤마다 읽어서 High Honors에 보내요. High Honors는 Google 비밀번호도, Google 키도 받지 않고 Google API도 쓰지 않아요. Mac이 꺼져 있어도 휴대폰에서 볼 수 있도록 High Honors는 **마지막 사본을 암호화해서 보관하고, 7일 동안 새로 오지 않으면 지워요**. Mangoclass에서 Google 연결을 끊으면 바로 지워져요.
 
 **Mangoclass:** Mac의 Mangoclass 앱을 연결하면, 메뉴 막대 패널에 오늘 일정을 보여 줄 수 있도록 앞으로 2주 동안의 Google 캘린더 일정(제목, 시간, 장소, 어느 캘린더인지)을 그 Mac에 보내요. 내가 연결한 Mac에만 가고, Mac은 마지막 사본을 갖고 있어요. 멈추려면 Mac 연결을 끊으면 돼요.
 
